@@ -8,4 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Project specific files
 game_state.jsonl
+game_events.jsonl
